@@ -15,10 +15,9 @@ This is an HTML code for a webpage. The webpage appears to be for an ecommerce s
 
 
 ## Demo
+![Screenshot (15)](https://user-images.githubusercontent.com/124589293/230000463-cff57201-b793-4ba3-a4c2-0d75f0697163.png)
 
-
-
-https://justcallmeak.github.io/Ecommerce.github.io/
+link-https://justcallmeak.github.io/Ecommerce.github.io/
 ## Features
 
 - Free Shipping
